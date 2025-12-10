@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinayagam!
+# 👋 Hey, I'm **Vinayagam**
 
-### Full Stack Developer | Open Source Enthusiast | Problem Solver
+### 🧠 Python Django Developer | 🛠️ Backend Architect | 🌍 Cloud & Automation Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vinayagam.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto vinayagamofficial@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinay-engineer.me/)
+[![Email](https://img.shields.io/badge/Email-EB4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayagam.python@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Django+%2B+React+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Django+%26+AWS;API+Architect+%7C+Automation+Engineer;Always+Building%2C+Learning%2C+and+Optimizing)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,36 +15,39 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Passionate Full Stack Developer at **Thaagam Foundation**, specializing in Django and React development. I craft scalable web applications and contribute to meaningful projects.
+I’m **Vinayagam**, a passionate **Python Django Developer** with 2+ years of experience at **Thaagam Foundation** — building scalable, cloud-ready systems and automation platforms.
 
-- 🔄 Currently working on **Django & React projects** at Thaagam Foundation
-- 🌱 Building with **Django REST Framework** and **React.js**
-- 🤝 Open to collaborate on **Python & JavaScript Projects**
-- 💬 Ask me about **Django**, **React**, **REST APIs** & **System Architecture**
-- ⚡ Fun fact: Cricket enthusiast who applies team strategies to coding! 🏏
+My work blends clean backend architecture, automation, and real-time communication — delivering products that make a measurable impact.
+
+- 💼 **Current Role:** Python Django Developer @ *Thaagam Foundation (2023–2025)*
+- 🔧 **Key Expertise:** Django REST Framework, AWS, PostgreSQL, Redis, WebSockets
+- 🌱 **Currently Exploring:** Advanced AWS services, Kubernetes & System Design
+- 🚀 **Projects Deployed:** [WASync](https://wasync.m7corporation.com) • [Thaagam.org](https://thaagam.org) • [GCC Services](https://imageanalysis.gccservices.in)
+- 💬 **Let’s talk about:** REST APIs, Scaling Django Apps, Automation, or Cloud Deployments
+- ⚡ **Fun Fact:** I optimize code like I play cricket — smart strategy beats raw speed every time 🏏
 
 ---
 
-## 🌟 Activity Graph
+## 🧭 GitHub Activity Graph
+
 [![Vinayagam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaythaagam&theme=react-dark&hide_border=true&area=true)](https://github.com/vinaythaagam)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Tech Distribution
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinaythaagam&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117)
 
-### My Tech Stack Distribution
+Python (Django) ████████████░░░░ 55%
+JavaScript/React ██████░░░░░░░░░ 35%
+HTML/CSS ██░░░░░░░░░░░░░ 10%
 
-```text
-Python (Django)     ███████████░░░░   55%
-JavaScript/React    ██████░░░░░░░░   35%
-HTML/CSS           ██░░░░░░░░░░░░   10%
-```
+yaml
+Copy code
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=vinaythaagam&theme=react&no-frame=true&row=1&column=7)](https://github.com/vinaythaagam)
 
@@ -58,40 +61,46 @@ HTML/CSS           ██░░░░░░░░░░░░   10%
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### Backend Development
+### ⚙️ Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0E7C61?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2181E2?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292E?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vk4499)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/westcheyyur)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_vinay__jr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vk4499)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/westcheyyur)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_vinay__jr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaythaagam)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinaythaagam&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vinaythaagam&style=flat-square&color=0A66C2)
 
 </div>
+
+---
+
+⭐ **"Code should not just work — it should inspire confidence, speed, and elegance."**  
+— *Vinayagam*
